@@ -1,7 +1,7 @@
 # 🔬 Disease Outbreak Prediction System using ML
 
 <div align="center">
-  <img src="https://i.ibb.co/WVTTBv2/medical-ai-logo.png" alt="Medical AI Logo" width="200"/>
+  <img src="src/Disease%20Outbreak%20Prediction%20Logo.png" alt="Medical AI Logo" width="200"/>
   <br>
   <em>Harnessing the power of AI to predict health outcomes</em>
 </div>
