@@ -108,5 +108,5 @@ This tool is designed for preliminary screening purposes only and is not a subst
 ---
 
 <div align="center">
-  <p><i>Empowering healthcare decisions through artificial intelligence</i></p>
+  <p><i>Empowering Healthcare decisions through Artificial Intelligence</i></p>
 </div>
